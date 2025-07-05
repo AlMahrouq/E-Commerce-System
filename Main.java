@@ -68,7 +68,7 @@ public class Main {
             System.out.println("----------------------------");
             System.out.println("Subtotal        " + Subtotal);
             System.out.println("Shipping        " + Shipping);
-            System.out.println("Amount        " + (Subtotal + Shipping));
+            System.out.println("Amount          " + (Subtotal + Shipping));
             System.out.println("customer current balance is: " + customer.getBalance());
         }
         System.out.println("==============================================");
